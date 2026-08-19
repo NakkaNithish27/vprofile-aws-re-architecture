@@ -2,6 +2,8 @@
 
 Re-architected an existing multi-tier VProfile application from an EC2-based deployment model to an AWS managed-service architecture, integrating Amazon RDS, ElastiCache, Amazon MQ, Elastic Beanstalk, HTTPS, and CloudFront.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7d14b305-a3b9-41a2-9d46-519b012f3e6c" />
+
 ---
 
 ## Overview
